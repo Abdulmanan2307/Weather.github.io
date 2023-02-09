@@ -1,0 +1,28 @@
+<!-- <th style="width: 22%;">Cloud_pct</th>
+<th style="width: 22%;">Feels_like</th>
+<th style="width: 22%;">Humidity</th>
+<th style="width: 22%;">Max_temp</th>
+<th style="width: 22%;">Min_temp</th>
+<th style="width: 22%;">Sunrise</th>
+<th style="width: 22%;">Sunset</th>
+<th style="width: 22%;">Temp</th>
+<th style="width: 22%;">Wind_degrees</th>
+<th style="width: 22%;"></th>Wind_speed
+
+
+                <th style="width: 34%;"></th>
+                <th style="width: 22%;">Free</th>
+                <th style="width: 22%;">Pro</th>
+                <th style="width: 22%;">Enterprise</th>
+
+
+                cloud_pct.innerHTML = response.cloud_pct
+                temp.innerHTML = response.temp
+                feels_like.innerHTML = response.feels_like
+                humidity.innerHTML = response.humidity
+                min_temp.innerHTML = response.min_temp
+                max_temp.innerHTML = response.max_temp
+                wind_speed.innerHTML = response.wind_speed
+                wind_degrees.innerHTML = response.wind_degrees
+                sunrise.innerHTML = response.sunrise
+                sunset.innerHTML = response.sunset -->
